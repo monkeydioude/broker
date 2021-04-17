@@ -1,4 +1,4 @@
-package schampionne
+package broker
 
 import (
 	"context"
